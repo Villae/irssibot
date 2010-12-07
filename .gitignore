@@ -1,0 +1,6 @@
+local.properties
+tools/
+bin
+gen
+launchpad-*.tar.gz
+
